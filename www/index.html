@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>YTPBR Soundboard</title>
+    </head>
+    <body>
+        <section id="splash-screen"></section>
+
+        <section id="title-screen">
+            <h1>YTPBR Soundboard</h1>
+            <ul class="menu">
+                <li class="menu-item">Sound Test</li>
+                <li class="menu-item">Lista</li>
+                <li class="menu-item">Random Poop</li>
+            </ul>
+        </section>
+
+        <section id="about-screen"></section>
+
+        <section id="soundtest-screen">
+            <div class="screenshot">
+                <img id="screenshot"></img>
+            </div>
+            <div class="counter">
+                <div class="btn" id="btn-previous"><</div>
+                <div class="btn" id="counter">00</div>
+                <div class="btn" id="btn-next">></div>
+            </div>
+            <div class="control">
+                <div class="btn" id="btn-play">&#9658;</div>
+            </div>
+        </section>
+
+        <section id="list-screen">
+            
+        </section>
+        
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="application/javascript" src="js/fastclick.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

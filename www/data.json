@@ -1,0 +1,19 @@
+[{
+	"label" : "Chaves", 
+	"sound" : [
+		{ "id" : 1, "text" : "Pênis" },
+		{ "id" : 2, "text" : "Jooj..." }		
+	]
+},{
+	"label" : "Faustão",
+	"sound" : [
+		{ "id" : 19, "text" : "Churrasqueira" },
+		{ "id" : 20, "text" : "Aperta o nº1, liga" },
+		{ "id" : 21, "text" : "Puta vida!" },
+		{ "id" : 22, "text" : "Tá pegando fogo, bixo!" },
+		{ "id" : 23, "text" : "É um país da Europa" },
+		{ "id" : 24, "text" : "Errou!" },
+		{ "id" : 25, "text" : "Faustão pentelho" },
+		{ "id" : 26, "text" : "Você destruiu o meu ovo" }
+	]
+}]
